@@ -22,7 +22,7 @@ body {
 }
 
 .slide {
-  height: auto;
+  height: 80vh;
   border-radius: 30px;
   margin: 5px;
   cursor: pointer;
