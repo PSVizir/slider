@@ -29,7 +29,7 @@ body {
   margin: 5px;
   cursor: pointer;
   color: rgb(255, 255, 255);
-  flex: 2;
+  flex: 1;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
